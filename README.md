@@ -1,7 +1,7 @@
 # Speech-Recognition
 
 ## Overview
-The Speech Recognition System is a Streamlit-based application that allows users to upload an audio file and transcribe its contents using AI-powered speech-to-text technology. The tool leverages the Wav2Vec2 model for accurate and efficient transcription.
+The Speech Recognition  is a Streamlit-based application that allows users to upload an audio file and transcribe its contents using AI-powered speech-to-text technology. The tool leverages the Wav2Vec2 model for accurate and efficient transcription.
 
 ## Features
 - Upload an audio file in WAV, FLAC, or MP3 format.
