@@ -1,0 +1,8 @@
+streamlit
+torchaudio
+torch
+transformers
+librosa
+soundfile
+sounddevice
+sentencepiece
